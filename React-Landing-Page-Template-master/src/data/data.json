@@ -1,0 +1,185 @@
+{
+  "Header": {
+    "title1": "일류 브랜드는 고객의 관심으로 만들어진다 \n 그리고 ",
+    "title2": "우리는 고객에게\n 가치있는 경험을 선물한다",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph1": "저희 회사의 미션은 언제 어디서든 편안하게 입고, 옷을 입었을 때 특별함을 느끼는 경험을 주는 것을 목표로 하고 있습니다.",
+    "paragraph2": "현재 오픈한 브랜드는 NIMF(Nature Is My Friend)로 친환경 소재를 사용하고 매 시즌마다 수많은 사람들의 로망 중 한 가지를 주제로 선정하고 디자인을 출시하는 브랜드입니다.",
+    "paragraph3":"앞으로 출시할 브랜드는 스포츠, 한정판, 명품을 주제로 계획 중입니다.",
+
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "아침 간식 제공",
+      "largeImage": "img/portfolio/welfare01.png",
+      "smallImage": "img/portfolio/welfare01.png"
+    },
+    {
+      "title": "경조사비 지원",
+      "largeImage": "img/portfolio/welfare02.png",
+      "smallImage": "img/portfolio/welfare02.png"
+    },
+    {
+      "title": "자사상품 할인",
+      "largeImage": "img/portfolio/welfare03.png",
+      "smallImage": "img/portfolio/welfare03.png"
+    },
+    {
+      "title": "매월 마지막 주 금요일 조기 퇴근",
+      "largeImage": "img/portfolio/welfare04.png",
+      "smallImage": "img/portfolio/welfare04.png"
+    },
+    {
+      "title": "건강 검진",
+      "largeImage": "img/portfolio/welfare05.png",
+      "smallImage": "img/portfolio/welfare05.png"
+    },
+    {
+      "title": "야근시 식사(1만원 한도) 제공",
+      "largeImage": "img/portfolio/welfare06.png",
+      "smallImage": "img/portfolio/welfare06.png"
+    }
+  ],
+  "Services": [
+    {
+      "title": "커뮤니케이션",
+      "largeImage": "img/portfolio/culture01.png",
+      "smallImage": "img/portfolio/culture01.png",
+      "name": "1. 커뮤니케이션",
+      "text": "서로의 업무를 공유하면서\n업무의 성과와 생상성을 높입니다."
+    },
+    {
+      "title": "상호 존중",
+      "largeImage": "img/portfolio/culture02.png",
+      "smallImage": "img/portfolio/culture02.png",
+      "icon": "fa fa-cart-arrow-down",
+      "name": "2. 상호 존중",
+      "text": "서로 상호 존중을 하며 대화를 해\n불필요한 감정 마찰을 피합니다."
+    },
+    {
+      "title": "자율적 사고방식",
+      "largeImage": "img/portfolio/culture03.png",
+      "smallImage": "img/portfolio/culture03.png",
+      "icon": "fa fa-cloud-download",
+      "name": "3. 자율적 사고방식",
+      "text": "업무를 하는 데 있어서 기존 방법이\n 효율적이지 않다면 자율적으로 생각 후\n 해결을 하거나 또는 의견을 제시하여\n 더 나은 방식을 찾아 업무의 효율을 높입니다."
+    },
+    {
+      "title": "성과",
+      "largeImage": "img/portfolio/culture04.png",
+      "smallImage": "img/portfolio/culture04.png",
+      "icon": "fa fa-pie-chart",
+      "name": "4. 성과",
+      "text": "일하는 과정도 중요하지만\n사람마다 일을 하는 스타일일 다르기 때문에\n 성과로 평가를 합니다."
+    },
+    {
+      "title": "믿음",
+      "largeImage": "img/portfolio/culture05.png",
+      "smallImage": "img/portfolio/culture05.png",
+      "icon": "fa fa-language",
+      "name": "5. 믿음",
+      "text": "나와 같이 일하는 동료들이\n 해당 분야의 최고 전문가라는 믿음과\n 회사가 성장할 것이라는 믿음이 있어야\n좋은 팀워크가 나옵니다."
+    },
+    {
+      "title": "장기근속",
+      "largeImage": "img/portfolio/culture06.png",
+      "smallImage": "img/portfolio/culture06.png",
+      "icon": "fa fa-plane",
+      "name": "6. 장기근속",
+      "text": " 개인의 목표와 회사의 미션을 연결하여\n '내가 다니는 회사'가 아는 '내 회사'라고\n 인식을 전환할 수 있는 분위기와\n 직원들 간의 친목 도로를 지원합니다."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/value02.jpg",
+      "name": "사회에 선한 영향력을 끼치는 기업",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/value04.jpg",
+      "name": "직원들이 일하고 싶은 기업",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/value03.png",
+      "name": "트랜드는 만드는 기업",
+      "job": "Senior Designer"
+    }
+  ],
+  "Contact": {
+    "address": " 경기도 하남시 하남대로 784번 안길 12 4층",
+    "phone": "031-794-6469",
+    "email": "nimf2021@naver.com",
+    "facebook": "https://www.facebook.com/Nimf-104361265606861",
+    "twitter": "https://www.instagram.com/nimf__korea/",
+    "youtube": "http://nimfhome.cafe24.com/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
