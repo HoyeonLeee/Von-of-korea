@@ -18,11 +18,15 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
   speedAsDuration: true,
 });
 
+{/*w주석 을 추카 */}
+
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
   useEffect(() => {
+
     init(useEffect);
     setLandingPageData(JsonData);
+
   }, []);
 
   return (

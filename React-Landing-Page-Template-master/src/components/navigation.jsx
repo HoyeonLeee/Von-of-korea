@@ -16,8 +16,8 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            {/*Von of korea*/}
-            하마(주)
+            {/*하마(주)*/}
+            Von of korea
           </a>{' '}
         </div>
 
