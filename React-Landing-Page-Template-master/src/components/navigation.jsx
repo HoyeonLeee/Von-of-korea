@@ -53,7 +53,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#team' className='page-scroll'>
-                미래가치
+                미래 가치
               </a>
             </li>
             <li>
